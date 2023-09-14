@@ -7,7 +7,6 @@ while
 Input: 5
 Output: 120
 """
-
 n = 5
 
 factorial = 1
